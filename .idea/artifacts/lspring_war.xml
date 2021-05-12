@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lspring:war">
+    <output-path>$PROJECT_DIR$/../lspring/target</output-path>
+    <root id="archive" name="spring-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lspring:war exploded" />
+    </root>
+  </artifact>
+</component>
